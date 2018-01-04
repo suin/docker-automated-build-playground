@@ -1,0 +1,4 @@
+#!/bin/bash
+set -eux
+mkdir -p build/a
+cp a/Dockerfile build/a/
